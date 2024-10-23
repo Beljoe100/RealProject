@@ -11,7 +11,8 @@
 
 
 $txt = "PHP";
-echo "I love $txt!";
+echo "I like $txt!";
+
 ?>
 
 </body>
